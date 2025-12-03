@@ -5,16 +5,7 @@ A DBMS project on Online Organ Donation Registration and Management
 
 The Online Organ Donation Management System (OODMS) is developed mainly for general hospitals (GH), clinics and other health centers to manage the donor registration and user maintenance. It is an online system which only can be access or valid in Malacca state. The public can retrieve information about organ donation in this web site. People who interested can register themselves through this system. The application will be processed by the administrator and each donor will receive feedback about their application status. Furthermore, the authorized user’s account will be maintained by the administrator. The donor record will be managed by four main users such as administrator, doctor, medical assistant and management staﬀ. Only administrator has the authority and privileges to print organ list report and total donation report according to district from this system. The methodology of this system is Structured System Analysis and Design (SSADM). An analysis study has been done based on the current manual system and all the problems statements and requirements have been identiﬁed. Moreover, OODMS is three tier architecture system which involves client tier, business tier and database management tier. The interfaces for OODMS have been designed according to the requirement and needs of the current market Rather than that, this system also has been tested and evaluated in real life. This Online Organ Donation Management System will help to improve the performance of current situation and overcome the problems that arise nowadays.
 
-### Acknowledgement
 
-The following project was submitted to the Dept of Computer Science and Engineering of JSS Science and Technology University, Mysuru (JSSSTU).
-
-First and foremost, we would like to thank our teacher, mentor and guide, Dr.Trisila Devi Nagavi.Without her assistance and guidance at every step, this project would have never been accomplished.
-
-We would also like to show gratitude to our HOD, Dr.Vijayalakshmi H C, for always encouraging and motivating us to explore new arenas.She has been a constant pillar of support.
-
-A special thanks goes to my team mates, Pooja Huggi and Pradeepkumar Kottalagi, who help to complete the project and gave important suggestion.I have to appreciate the guidance given by other supervisor as well as the panels especially in our project presentation that has improved our presentation skills thanks to their comment and advices.
-Most importantly, we thank our parents and family, for providing constant help and support.
 
 
 
